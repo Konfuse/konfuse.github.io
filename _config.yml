@@ -15,7 +15,7 @@ future: true
 RSS: false
 weibo_username:     风兮合乎
 zhihu_username:     风兮合乎
-github_username:    Konfuse
+github_username:    konfuse
 twitter_username:   Konfuse
 #facebook_username:  Konfuse
 #linkedin_username:  firstname-lastname-idxxxx
@@ -38,7 +38,7 @@ anchorjs: true                          # if you want to customize anchor. check
 # from PR#40, to support local preview for Jekyll 3.0
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
+gems: [jekyll-paginate]
 
 
 
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-132193150-1'            # Format: UA-xxxxxx-xx
-ga_domain: https://konfuse.github.io
+ga_domain: auto
 
 
 
@@ -103,37 +103,19 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "Hux Blog",
+        href: "http://huangxuan.me"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "Foo",
+        href: "#"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "Bar",
+        href: "#"
     },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
+        title: "Example Friends",
+        href: "#"
     },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "It helps SEO",
+        href: "#"
     }
 ]
