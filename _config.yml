@@ -1,7 +1,7 @@
 # Site settings
 title: Konfuse Blog
 SEOTitle: 軍的博客 | Konfuse Blog
-header-img: img/home-bg.jpg
+header-img: img/home-venice.jpg
 email: konfuse@foxmail.com
 description: "生活、程序与艺术 | Konfuse，Life Lover，Software Engineer，Data Analyst | 这里是 @Konfuse 的个人博客，记录生活中的小确幸。"
 keyword: "Konfuse, Konfuse Blog, 博客, 生活, 互联网, Web, BigData"
@@ -79,7 +79,7 @@ ga_domain: auto
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-konfuse-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
