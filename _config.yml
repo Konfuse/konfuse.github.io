@@ -78,7 +78,7 @@ ga_domain: konfuse.cn
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "认真的生活，认真的老去"
+sidebar-about-description: "人的成长终究还是逃不过吃苦两个字。"
 sidebar-avatar: /img/avatar-konfuse-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
