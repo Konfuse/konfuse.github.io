@@ -102,7 +102,16 @@ layout: default
 
 <!-- add support for mathjax by voleking-->
 {% if page.mathjax %}
-  {% include mathjax_support.html %}
+  <!-- {% include mathjax_support.html %} -->
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
 {% endif %}
 
 {% if site.netease_comment %}
