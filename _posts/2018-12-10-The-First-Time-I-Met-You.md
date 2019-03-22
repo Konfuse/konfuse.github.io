@@ -6,10 +6,6 @@
 
 
 
-![theFirstTimeIMetYou](/img/theFirstTimeIMetYou.jpg)
-
-
-
 > 我们于黑夜中相逢，
 >
 > 夜色中，跳动着的，
